@@ -1,0 +1,52 @@
+body {
+  font-family: hero-new, sans-serif;
+  background-image: url("patt2.jpg");
+  background-color: rgba(33, 18, 40, 0.85);
+  /* background-color: rgba(40, 33, 18, 0.6); */
+  /* background-color: rgba(18, 40, 33, 0.6); */
+  /* background-color: rgba(18, 33, 40, 0.6); */
+  /* background-repeat: no-repeat; */
+  /* background-size: cover; */
+}
+
+h1 {
+  text-align: center;
+  /* background-color: rgba(0, 0, 0, 1); */
+  width: 650px;
+  margin: 0 auto;
+  padding: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: white;
+  border: solid 1px #2c3d4f;
+}
+
+.allinfo {
+  background-color: white;
+  width: 650px;
+  padding: 50px;
+  margin: 0 auto;
+  /* border-radius: 5%; */
+  border: solid 1px #2c3d4f;
+}
+
+input {
+  border: 1px black solid;
+}
+
+input[type="submit"] {
+  font-weight: bold;
+  border: 1px black solid;
+  font-size: 300%;
+  width: 200px;
+}
+
+.buttonholder {
+  text-align: right;
+}
+
+td {
+  padding: 10px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
